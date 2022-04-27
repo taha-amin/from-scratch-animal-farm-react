@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <Header name="Mohamed"/>
 
-      <Main />
+      <Main test/>
 
       <Footer year="2022"/>
     </div>
