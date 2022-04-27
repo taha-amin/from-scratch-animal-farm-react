@@ -11,6 +11,3 @@ export default function Main() {
     </main>
   );
 }
-
-// main style
-// <AnimalList animal={animals} />
