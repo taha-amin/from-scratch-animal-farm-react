@@ -1,6 +1,6 @@
 import './Animal.css';
 
-export default function Animal({ name, type, says, top, left }) {
+export default function Animal({ name, type, says }) {
   return (
     <div className='animal-card'>
       <img src={`/images/${type}.svg`} />
