@@ -24,7 +24,7 @@ export const animals = [
     name: 'Wilbur the Pig',
     type: 'pig',
     says: 'You have been my friend. That in itself is a tremendous thing.',
-    top: '355px',
+    top: '320px',
     left: '5%',
   },
   {
