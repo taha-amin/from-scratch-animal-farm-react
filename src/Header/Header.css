@@ -1,0 +1,13 @@
+header {
+  width: 100vw;
+  color: var(--color1);
+  text-transform: uppercase;
+  font-weight: bold;
+  height: 40px;
+  background-color: var(--color4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Space and Astronomy';
+  position: fixed;
+}
